@@ -2,3 +2,4 @@
 + Medellín
 + Cali
 + Cartagena
++ Barranquilla
