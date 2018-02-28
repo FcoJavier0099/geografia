@@ -1,0 +1,3 @@
++ Quito
++ Guayaquil
++ Emeraldas

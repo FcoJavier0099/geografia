@@ -1,0 +1,4 @@
++ Bogotá
++ Medellín
++ Cali
++ Cartagena
