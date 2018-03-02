@@ -1,3 +1,6 @@
+Ecuador
+-------
+
 + Quito
 + Guayaquil
 + Emeraldas
