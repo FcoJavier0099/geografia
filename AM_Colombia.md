@@ -6,4 +6,4 @@ Colombia
 + Cali
 + Cartagena
 + Barranquilla
-+ Otro
+
