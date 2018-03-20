@@ -1,4 +1,0 @@
-Egito
------
-
-+ El Cairo
